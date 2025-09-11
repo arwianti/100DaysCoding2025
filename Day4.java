@@ -11,6 +11,7 @@ static void main(string[] args) {
  System.out.println("hai\b") ; // \b menghapus 1 karakter sebelumnya
  System.out.println("hai\rHi!") ; // \r mengembalikan kursor ke awal baris 
   
-  
+             }
+  }
 
   
