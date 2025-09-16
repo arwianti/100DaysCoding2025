@@ -9,8 +9,8 @@ public class Day9 {
   //inisialisasi
 
 
-  alamat = "Saluhussu"
-  NomorRumah = 12
+  alamat = "Saluhussu";
+  NomorRumah = 12 ;
 
     //nilai awal
 
@@ -22,8 +22,8 @@ public class Day9 {
 
   // update variabel
 
-  alamat = "kalabe"
-   NomorRumah = 15 
+  alamat = "kalabe" ;
+   NomorRumah = 15 ;
 
 
   System.out.println("alamat rumah saya : " + alamat) ;
