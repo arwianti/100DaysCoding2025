@@ -2,7 +2,7 @@ public class main {
     public static void main(String[] args) {
        
         String stringAngka = "123";
-        String stringDesimal = "1,23";
+        String stringDesimal = "3.14";
         String stringBoolean = "true";
       
 
