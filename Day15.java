@@ -13,3 +13,5 @@ public class main{
 
     System.out.println("hasil penjumlahan: " + hasilpenjumlahan + ( "\nhasil pengurangan: " + hasilpengurangan)) ;
     
+  }
+}
