@@ -8,7 +8,7 @@ public class Day16.java{
   int a = a * b ;
 
   // pembagian
-  int b = a \ b ;
+  int b = a / b ;
 
 
     System.out.println("hasil perkalian: " + a + ( "\nhasil pembagian: " + b)) ;
