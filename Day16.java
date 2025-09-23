@@ -5,13 +5,13 @@ public class Day16.java{
      int b = 12;
 
   //perkalian
-  int a = a * b ;
+  int perkalian = a * b ;
 
   // pembagian
-  int b = a / b ;
+  int pembagian = a / b ;
 
 
-    System.out.println("hasil perkalian: " + a + ( "\nhasil pembagian: " + b)) ;
+    System.out.println("hasil perkalian: " + perkalian + ( "\nhasil pembagian: " + pembagian )) ;
     
   }
 }
