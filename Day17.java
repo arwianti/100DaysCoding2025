@@ -1,4 +1,4 @@
-public class Day17{
+public class Day17.java{
   public static void main(String[] args) {
 
   int a = 17, n=5;
