@@ -7,3 +7,5 @@ public class java {
   String StrNilai= Double.toString(angkaPrimitif) ;
 
   System out println("hasil konversi double menggunakan toString: " + StrNilai) ;
+  }
+}
