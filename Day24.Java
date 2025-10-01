@@ -14,6 +14,6 @@ public class LuasLingkaran {
         // tampilkan hasil
         System.out.println("Luas lingkaran = " + luas);
 
-        input.close();
+        
     }
 }
