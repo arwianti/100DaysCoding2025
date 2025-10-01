@@ -1,11 +1,4 @@
----
 
-### 2. Luas Persegi Panjang
-Rumus:  
-\[
-L = panjang \times lebar
-\]
-```java
 import java.util.Scanner;
 
 public class LuasPersegiPanjang {
@@ -21,6 +14,6 @@ public class LuasPersegiPanjang {
         
         System.out.println("Luas persegi panjang = " + luas);
         
-        input.close();
+        
     }
 }
