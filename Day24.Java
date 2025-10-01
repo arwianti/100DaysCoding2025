@@ -1,19 +1,19 @@
-
 import java.util.Scanner;
 
-public class LuasPersegiPanjang {
+public class LuasLingkaran {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        
-        System.out.print("Masukkan panjang: ");
-        int panjang = input.nextInt();
-        System.out.print("Masukkan lebar: ");
-        int lebar = input.nextInt();
-        
-        int luas = panjang * lebar;
-        
-        System.out.println("Luas persegi panjang = " + luas);
-        
-        
+
+        // input jari-jari
+        System.out.print("Masukkan jari-jari lingkaran: ");
+        double r = input.nextDouble();
+
+        // rumus luas
+        double luas = Math.PI * r * r;
+
+        // tampilkan hasil
+        System.out.println("Luas lingkaran = " + luas);
+
+        input.close();
     }
 }
